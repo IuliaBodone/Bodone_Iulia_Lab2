@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Bodone_Iulia_Lab2.props" />
+</Project>
